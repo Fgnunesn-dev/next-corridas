@@ -1,0 +1,6 @@
+{
+  "name": "Next Assessoria Esportiva",
+  "description": "Assessoria esportiva premium de alta performance, corrida, treinos personalizados e evolução contínua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
